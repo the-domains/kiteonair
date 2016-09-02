@@ -1,6 +1,5 @@
-typography_spectrum: 0.18502738187089562
-content_rating:
-  adult: false
+layout_spectrum: 0.9141020975075662
+typography_spectrum: 0.7615269089583308
 color:
   brandStrength: 0.0325803067535162
   lightness: 0.42349627218209207
@@ -12,11 +11,12 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+content_rating:
+  adult: false
 opengraph:
   appId: ''
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b6308a7-da37-43d7-b1b5-28a2deab4e9a.jpg
-layout_spectrum: 0.9141020975075662
 analytics:
   twitter: www.twitter.com/_kiteonair_
 author:
