@@ -17,6 +17,8 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b6308a7-da37-43d7-b1b5-28a2deab4e9a.jpg
 layout_spectrum: 0.9141020975075662
+analytics:
+  twitter: www.twitter.com/_kiteonair_
 author:
   name: Stefano
   email: info@kiteonair.com
