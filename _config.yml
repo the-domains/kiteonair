@@ -13,8 +13,15 @@ color:
     - '#F3FFE2'
     - '#EB7F00'
 opengraph:
-  appId: www.facebook.com/kiteonair
+  appId: ''
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b6308a7-da37-43d7-b1b5-28a2deab4e9a.jpg
 layout_spectrum: 0.9141020975075662
+author:
+  name: Stefano
+  email: info@kiteonair.com
+  url: 'http://kiteonair.com'
+logo: null
 name: KiteOnAir
 navigation:
   - name: they say..
