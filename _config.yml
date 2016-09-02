@@ -16,5 +16,10 @@ opengraph:
   appId: www.facebook.com/kiteonair
 layout_spectrum: 0.38264186843298376
 name: KiteOnAir
+navigation:
+  - name: they say..
+    url: >-
+      http://www.margeye.com/2015/01/20/stefano-brought-by-the-wind-to-indonesia-and-to-gili-air-stefano-porte-par-le-vent-en-indonesie-et-a-gili-air/
+    type: external
 title: 'Kites rise highest against the wind, not with it.'
 description: Talaimannar Sri Lanka
