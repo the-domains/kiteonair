@@ -1,4 +1,6 @@
 typography_spectrum: 0.05074034072458744
+content_rating:
+  adult: false
 color:
   brandStrength: 0.86586689716205
   lightness: 0.4694842076860368
@@ -10,6 +12,8 @@ color:
     - '#B5B6B0'
     - '#666342'
     - '#305572'
+opengraph:
+  appId: www.facebook.com/kiteonair
 layout_spectrum: 0.38264186843298376
 name: KiteOnAir
 navigation:
