@@ -1,4 +1,3 @@
-layout_spectrum: 0.38264186843298376
 typography_spectrum: 0.05074034072458744
 color:
   brandStrength: 0.86586689716205
@@ -11,4 +10,6 @@ color:
     - '#B5B6B0'
     - '#666342'
     - '#305572'
+layout_spectrum: 0.38264186843298376
 name: KiteOnAir
+title: Kites rise highest against the wind - not with it.
