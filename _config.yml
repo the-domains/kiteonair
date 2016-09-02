@@ -31,5 +31,7 @@ navigation:
   - name: Project
     url: 'http://kiteonair.com/project/index.html'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0924e12-4c60-413e-9bdb-5f9597f17a51.jpg
 title: 'Kites rise highest against the wind, not with it.'
 description: Talaimannar Sri Lanka
