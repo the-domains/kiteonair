@@ -24,5 +24,8 @@ navigation:
   - name: KiteOnAir.com
     url: 'http://kiteonair.com'
     type: external
+  - name: Project
+    url: 'http://kiteonair.com/project/index.html'
+    type: external
 title: 'Kites rise highest against the wind, not with it.'
 description: Talaimannar Sri Lanka
