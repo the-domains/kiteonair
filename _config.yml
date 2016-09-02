@@ -12,5 +12,9 @@ color:
     - '#305572'
 layout_spectrum: 0.38264186843298376
 name: KiteOnAir
+navigation:
+  - name: our main web site
+    url: www.kiteonair.com
+    type: external
 title: Kites rise highest against the wind - not with it.
 description: sddsdsdsds
