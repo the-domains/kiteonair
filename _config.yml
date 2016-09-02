@@ -1,20 +1,20 @@
-typography_spectrum: 0.05074034072458744
+layout_spectrum: 0.9857737629208714
+typography_spectrum: 0.5197975907940418
+color:
+  brandStrength: 0.0966179755050689
+  lightness: 0.9021974424831569
+  saturation: 0.5332280134316534
+  rhythmicContrast: 0.17567343055270612
+  brandColors:
+    - '#10222B'
+    - '#95AB63'
+    - '#BDD684'
+    - '#E2F0D6'
+    - '#F6FFE0'
 content_rating:
   adult: false
-color:
-  brandStrength: 0.86586689716205
-  lightness: 0.4694842076860368
-  saturation: 0.006285388022661209
-  rhythmicContrast: 0.2018368667922914
-  brandColors:
-    - '#526F8F'
-    - '#7A92AA'
-    - '#B5B6B0'
-    - '#666342'
-    - '#305572'
 opengraph:
   appId: www.facebook.com/kiteonair
-layout_spectrum: 0.38264186843298376
 name: KiteOnAir
 navigation:
   - name: they say..
