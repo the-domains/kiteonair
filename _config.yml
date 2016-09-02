@@ -1,5 +1,6 @@
-layout_spectrum: 0.9141020975075662
 typography_spectrum: 0.18502738187089562
+content_rating:
+  adult: false
 color:
   brandStrength: 0.0325803067535162
   lightness: 0.42349627218209207
@@ -11,18 +12,14 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
-content_rating:
-  adult: false
 opengraph:
   appId: www.facebook.com/kiteonair
+layout_spectrum: 0.9141020975075662
 name: KiteOnAir
 navigation:
   - name: they say..
     url: >-
       http://www.margeye.com/2015/01/20/stefano-brought-by-the-wind-to-indonesia-and-to-gili-air-stefano-porte-par-le-vent-en-indonesie-et-a-gili-air/
-    type: external
-  - name: KiteOnAir.com
-    url: 'http://kiteonair.com'
     type: external
   - name: Project
     url: 'http://kiteonair.com/project/index.html'
