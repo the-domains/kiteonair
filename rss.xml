@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[KiteOnAir]]></title>
-        <description><![CDATA[KiteOnAir]]></description>
+        <title><![CDATA[Kites rise highest against the wind - not with it.]]></title>
+        <description><![CDATA[Kites rise highest against the wind - not with it.]]></description>
         <link>https://thegrid.ai/kiteonair/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 07:42:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 05:43:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kiteonair/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Talaimannar Sri Lanka The ultimate Kitesurf spot with Accommodation and Italian Fusion restaurant at our Inn Of The Wind</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b4a11558ec43cdb33c653d89eaf8216d/noop.jpg?input=https%3A%2F%2Fkiteonair.com%2Fonewebstatic%2Fa3885394e2-images%2520(1).jpg"></article>]]></description>
+            <link>https://kiteonair.com</link>
+            <guid isPermaLink="false">893b6bb4-d506-4a58-a2a4-a90a3dd98cd8</guid>
+            <pubDate>Wed, 31 Aug 2016 05:43:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b4ddc77-34df-42bf-952d-ee301b473110.jpg" alt="Talaimannar operational area">]]></description>
